@@ -60,11 +60,11 @@ src/
 
 # 1. Install dependencies
 
-npm install
+yarn install
 
 # 2. Jalankan development server
 
-npm run dev
+yarn dev
 
 # 3. Buka di browser
 
